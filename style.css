@@ -22,9 +22,9 @@ td, th
 
 table{
 	table-layout: fixed;
+	border-collapse: collapse;
 	width: 100%;
 	color:black;
-    border-collapse: collapse;
     background-image: url(Graphisme/Water.jpg);
     background-size: 100%;
 

@@ -15,6 +15,7 @@
 
 <table>
 	<tr>
+		<th>\</th>
 		<th>1</th>
 		<th>2</th>
 		<th>3</th>
@@ -37,10 +38,12 @@
 		<td></td>
 		<td></td>
 		<td></td>
+		<td></td>
 
 	</tr>
 	<tr>
 		<th>B</th>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -62,9 +65,11 @@
 		<td></td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<th>D</th>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -86,9 +91,11 @@
 		<td></td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<th>F</th>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -110,9 +117,11 @@
 		<td></td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<th>H</th>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -134,9 +143,11 @@
 		<td></td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<th>J</th>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
