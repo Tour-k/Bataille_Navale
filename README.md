@@ -1,2 +1,5 @@
 # Bataille_Navale
-Création d'une bataille Navale 
+
+Définir les pages : 
+
+Définir les modes de jeux : 
