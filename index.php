@@ -13,6 +13,8 @@
 
 <p>Joueur 1 placez vos bateaux<p>
 
+<!-- _______________tableau de jeu ____________--> 
+
 <table>
 	<tr>
 		<th>\</th>
@@ -160,6 +162,69 @@
 	</tr>
 </table>
 
+<!--_______________fin du tableau de jeu _____________--> 
+
+<!--_______________les bateaux_____________________--> 
+
+<!--1 Porte-Avion de 5cases 
+1 Croiseur de 4 cases
+2 sous-marins de 3 cases
+2 torpilleurs de 2 cases--> 
+
+<table id="Porte-Avion">
+	<caption>Porte Avion</caption>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+
+<table id="Croiseur">
+	<caption>Croiseur</caption>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+
+<table class="Sous-Marin">
+	<caption>Sous-Marin</caption>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+
+<table class="Sous-Marin">
+	<caption>Sous-Marin</caption>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+
+<table class="Torpilleur">
+	<caption>Torpilleur</caption>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+
+<table class="Torpilleur">
+	<caption>Torpilleur</caption>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
 
 
 </body>

@@ -29,3 +29,34 @@ table{
     background-size: 100%;
 
 }
+
+#Porte-Avion{
+	background-image: none;
+	background-color: grey;
+	table-layout: fixed;
+	width: 30%;
+	height: 30px;
+}
+
+#Croiseur{
+	background-image: none;
+	background-color: grey;
+	table-layout: fixed;
+	width: 24%;
+	height: 30px;
+}
+
+.Sous-Marin{
+	background-image: none;
+	background-color: grey;
+	table-layout: fixed;
+	width: 18%;
+	height: 30px;
+}
+.Torpilleur{
+	background-image: none;
+	background-color: grey;
+	table-layout: fixed;
+	width: 10%;
+	height: 30px;
+}
