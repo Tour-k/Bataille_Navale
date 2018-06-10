@@ -1,3 +1,8 @@
+body{
+	background-color: white;
+	font-family: 'Orbitron', sans-serif;
+}
+
 h1{
 	color:blue;
 	text-align:center;
@@ -18,6 +23,9 @@ td, th
 table{
 	table-layout: fixed;
 	width: 100%;
+	color:black;
     border-collapse: collapse;
+    background-image: url(Graphisme/Water.jpg);
+    background-size: 100%;
 
 }

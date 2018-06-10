@@ -5,7 +5,7 @@
 	<meta charset="utf-8" />
     <link rel="stylesheet" href="style.css" />
 	<meta name="description" content="Bataille Navale réalisée par la Team Tour-K" />
-	<script type="text/javascript"></script>
+	<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
 </head>
 <body>
 
@@ -147,8 +147,6 @@
 		<td></td>
 		<td></td>
 	</tr>
-
-
 </table>
 
 
