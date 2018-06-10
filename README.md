@@ -20,5 +20,5 @@ Les bateaux peuvent être placer à l'horizontale comment à la verticale
 Le joueur 1 place ces bateaux  
 Le joueur 2 place ces bateaux 
 
-Début de la partie => alternance Joueur1 / Joueur2, chaque jour a une couleur de bateau différente. 
+Début de la partie => alternance Joueur1 / Joueur2, chaque joueur a une couleur de bateau différente. 
 
