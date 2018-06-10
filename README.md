@@ -1,12 +1,12 @@
 # Bataille_Navale
 
-##Taille du jeu : 
+## Taille du jeu : 
 De 1 à 10 en horizontale
 de A à J en Verticale 
 
 Qui fait un tableau de 10/10. 
 
-##Nombre de Bateaux:
+## Nombre de Bateaux:
 
 1 porte Avion de 5cases 
 1 croiseur de 4 cases
@@ -15,7 +15,7 @@ Qui fait un tableau de 10/10.
 
 Les bateaux peuvent être placer à l'horizontale comment à la verticale
 
-##Déroulement de la partie: 
+## Déroulement de la partie: 
 
 Le joueur 1 place ces bateaux  
 Le joueur 2 place ces bateaux 
