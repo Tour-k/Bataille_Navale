@@ -170,7 +170,7 @@
 1 Croiseur de 4 cases
 2 sous-marins de 3 cases
 2 torpilleurs de 2 cases--> 
-
+<div draggable="true">
 <table id="Porte-Avion">
 	<caption>Porte Avion</caption>
 	<tr>
@@ -181,6 +181,7 @@
 		<td></td>
 	</tr>
 </table>
+</div>
 
 <table id="Croiseur">
 	<caption>Croiseur</caption>
@@ -226,6 +227,6 @@
 	</tr>
 </table>
 
-
+	<script src="javascript.js" type="text/javascript"></script>
 </body>
 </html>
