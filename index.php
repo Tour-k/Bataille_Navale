@@ -9,7 +9,6 @@
 </head>
 <body>
 
-	
 
 
 	<h1>Bataille Navalle<h1>
