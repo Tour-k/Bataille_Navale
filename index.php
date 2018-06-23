@@ -225,7 +225,6 @@
 		<td></td>
 	</tr>
 </table>
-
 <!--________________INSERT______________-->
 
 <script src="javascript.js" type="text/javascript"></script>
