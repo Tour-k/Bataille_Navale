@@ -171,35 +171,41 @@
 2 sous-marins de 3 cases
 2 torpilleurs de 2 cases-->
 
-<table id="Porte-Avion">
-	<caption>Porte Avion</caption>
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-</table>
+<div class="PremierBateau">
 
-<table id="Croiseur">
-	<caption>Croiseur</caption>
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-</table>
+	<table id="Porte-Avion">
+		<caption>Porte Avion</caption>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
 
-<table class="Sous-Marin">
-	<caption>Sous-Marin</caption>
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-</table>
+	<table id="Croiseur">
+		<caption>Croiseur</caption>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+
+	<table class="Sous-Marin">
+		<caption>Sous-Marin</caption>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+
+</div>
+
+<div class="bateauxSuivant">
 
 <table class="Sous-Marin">
 	<caption>Sous-Marin</caption>
@@ -225,6 +231,7 @@
 		<td></td>
 	</tr>
 </table>
+</div>
 
 <!--________________INSERT______________-->
 
