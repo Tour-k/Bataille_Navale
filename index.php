@@ -8,7 +8,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
 </head>
 <body>
-stylesheet
+test de ATOM 
 	<h1>Bataille Navalle<h1>
 
 <p>Joueur 1 placez vos bateaux<p>
