@@ -4,9 +4,9 @@ body{
 }
 
 h1{
-	color:grey;
-	text-align:center;
-
+	text-align: center;
+	color: red;
+	
 }
 
 p{
@@ -35,14 +35,15 @@ table{
 	background-color: blue;
 	table-layout:fixed;
 	width: 30%;
-	height: 30px;
+	height: 30%;
 	transition: all 1s;
+	-webkit-transition:all 1s;
 
 }
 
 #Porte-Avion:hover{
 		width: 32%;
-		height:35px;
+		height:35%;
 }
 
 
