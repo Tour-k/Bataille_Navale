@@ -4,9 +4,9 @@ body{
 }
 
 h1{
-	color:blue;
+	color:red;
 	text-align:center;
-	
+
 }
 
 p{
@@ -15,7 +15,7 @@ p{
 
 }
 
-td, th 
+td, th
 {
     border: 1px solid black;
 }
