@@ -9,8 +9,6 @@
 </head>
 <body>
 
-	<h1>Bataille Navalle<h1> 
-
 <p>Joueur 1 placez vos bateaux<p>
 
 <!-- _______________tableau de jeu ____________--> 
