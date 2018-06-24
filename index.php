@@ -3,7 +3,7 @@
 <head>
 	<title>Bataille Navale de la Tour K</title>
 	<meta charset="utf-8" />
-    <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" type="text/css" href="style.css">
 	<meta name="description" content="Bataille Navale réalisée par la Team Tour-K" />
 	<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
 </head>
@@ -228,7 +228,7 @@
 
 <!--________________INSERT______________-->
 
-<script src="javascript.js" type="text/javascript"></script>
+
 
 
 </body>
