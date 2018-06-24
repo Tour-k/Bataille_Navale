@@ -8,10 +8,12 @@
 	<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
 </head>
 <body>
+stylesheet
+	<h1>Bataille Navalle<h1>
 
 <p>Joueur 1 placez vos bateaux<p>
 
-<!-- _______________tableau de jeu ____________--> 
+<!-- _______________tableau de jeu ____________-->
 
 <table>
 	<tr>
@@ -160,14 +162,14 @@
 	</tr>
 </table>
 
-<!--_______________fin du tableau de jeu _____________--> 
+<!--_______________fin du tableau de jeu _____________-->
 
-<!--_______________les bateaux_____________________--> 
+<!--_______________les bateaux_____________________-->
 
-<!--1 Porte-Avion de 5cases 
+<!--1 Porte-Avion de 5cases
 1 Croiseur de 4 cases
 2 sous-marins de 3 cases
-2 torpilleurs de 2 cases--> 
+2 torpilleurs de 2 cases-->
 
 <table id="Porte-Avion">
 	<caption>Porte Avion</caption>
