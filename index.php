@@ -9,7 +9,7 @@
 </head>
 <body>
 
-
+<!--test--> 
 	<h1>Bataille Navalle<h1>
 
 <p>Joueur 1 placez vos bateaux<p>
